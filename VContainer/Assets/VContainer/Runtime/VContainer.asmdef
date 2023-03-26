@@ -4,7 +4,7 @@
     "references": [
         "Unity.Entities",
         "UniTask",
-        "Unity.Collections",
+        "Unity.Collections"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
